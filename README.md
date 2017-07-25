@@ -1,7 +1,7 @@
 <p align="center">
     <img alt="Downtown-Lover" src="http://i.cubeupload.com/3SvRwq.png" width="568">
 </p>
----
+
 ## If you want to check it out
 - Open **terminal** (Any terminal works but use **Git Bash** if you can)
 - **cd** into the Downtown Lover (**cd desktop**, **cd DowntownLover-master**)
